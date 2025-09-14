@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "title": "dont like",
+    "author": "chiefkeef",
+    "duration": "100 seconds",
+    "rating": 4
+  },
+  {
+    "id": 2,
+    "title": "serceedka",
+    "author": "egorkreed",
+    "duration": "140 sec",
+    "rating": 2
+  },
+  {
+    "id": 3,
+    "title": "сон",
+    "author": "максим",
+    "duration": "130секунд",
+    "rating": 5
+  }
+]
